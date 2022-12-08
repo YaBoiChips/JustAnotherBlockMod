@@ -1,6 +1,6 @@
-package com.example.examplemod.platform;
+package com.genderdex.jabm.platform;
 
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.genderdex.jabm.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

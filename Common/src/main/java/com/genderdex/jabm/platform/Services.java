@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package com.genderdex.jabm.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.genderdex.jabm.Constants;
+import com.genderdex.jabm.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package com.genderdex.jabm.platform.services;
 
 public interface IPlatformHelper {
 
