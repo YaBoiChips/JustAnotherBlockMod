@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "jabm:block/elder",
+    "top": "jabm:block/elder",
+    "side": "jabm:block/elder"
+  }
+}

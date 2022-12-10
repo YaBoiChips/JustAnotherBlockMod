@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "jabm:block/silver_birch_pressure_plate"
+    },
+    "powered=true": {
+      "model": "jabm:block/silver_birch_pressure_plate_down"
+    }
+  }
+}

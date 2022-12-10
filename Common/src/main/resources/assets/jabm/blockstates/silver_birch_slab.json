@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jabm:block/silver_birch_slab"
+    },
+    "type=double": {
+      "model": "jabm:block/silver_birch"
+    },
+    "type=top": {
+      "model": "jabm:block/silver_birch_slab_top"
+    }
+  }
+}

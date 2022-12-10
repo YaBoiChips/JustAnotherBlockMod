@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jabm:block/elder_slab"
+    },
+    "type=double": {
+      "model": "jabm:block/elder"
+    },
+    "type=top": {
+      "model": "jabm:block/elder_slab_top"
+    }
+  }
+}
