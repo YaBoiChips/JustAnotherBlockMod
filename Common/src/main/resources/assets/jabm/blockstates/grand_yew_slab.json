@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jabm:block/grand_yew_slab"
+    },
+    "type=double": {
+      "model": "jabm:block/grand_yew"
+    },
+    "type=top": {
+      "model": "jabm:block/grand_yew_slab_top"
+    }
+  }
+}

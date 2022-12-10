@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "jabm:block/grand_yew",
+    "top": "jabm:block/grand_yew",
+    "side": "jabm:block/grand_yew"
+  }
+}
